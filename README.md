@@ -1,5 +1,7 @@
 # ezReply
 
+✨ [LIVE DEMO](https://kazvee.com/ezreply/) ✨  
+
 **ezReply** is a lightweight, Flask-based web application designed to streamline customer support by generating pre-written replies for common requests.
 
 With a simple dropdown menu, users can select predefined customer support actions, and the corresponding reply is generated instantly. This eliminates the need for repetitive typing and speeds up responses. Replies can be easily copied into emails, forum posts, or chat messages.
