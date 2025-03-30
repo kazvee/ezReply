@@ -31,9 +31,8 @@
     </form>
 
     {% if selected_action %}
-    <h3>Reply:</h3>
-    <pre id="replyBox">{{ replies[selected_action] }}</pre>
     <button id="copyButton">Copy Reply</button>
+    <pre id="replyBox">{{ replies[selected_action] }}</pre>
     {% endif %}
 
     <footer>
