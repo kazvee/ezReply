@@ -1,6 +1,6 @@
 # ezReply
 
-✨ [LIVE DEMO](https://kazvee.com/ezreply/) ✨  
+✨ [LIVE DEMO](https://ezreply.kazvee.com/) ✨  
 
 **ezReply** is a lightweight, Flask-based web application designed to streamline customer support by generating pre-written replies for common requests.
 
